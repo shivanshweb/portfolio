@@ -116,7 +116,7 @@ color:#304345;
 }
 
 
-@media (max-width:900px)  {
+@media (max-width:1000px)  {
   .grid-display {
     display:grid;
     grid-template-columns: 1fr 1fr;
